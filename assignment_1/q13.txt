@@ -1,0 +1,14 @@
+Things Learnt:
+--------------
+
+1) Linear regression
+2) Gradient Descent, Batch Gradient Descent and Stochastic Gradient Descent
+3) Regularized linear regression (Ridge Regression and Lasso Regression/Least Angle Regression)
+4) Logistic Regression
+5) One-VS-All and One-Vs-One coding techniques
+6) Vectorization
+7) K-Means clustering
+8) Probabilistic classifiers
+9) Sensitivity, Specificity and Accuracy of classifiers
+10) MAP, LRT, ML methods for classification
+11) matplotlib and numpy
